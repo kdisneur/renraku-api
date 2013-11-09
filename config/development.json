@@ -1,0 +1,9 @@
+{
+  "database": {
+    "name": "renraku-api",
+    "host": "localhost"
+  },
+  "security": {
+    "salt": "6&##;6K34}K3986798#7:=/GZ+4@n9a93,2X]4R#&/6;X4.{#g"
+  }
+}

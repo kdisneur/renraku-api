@@ -1,0 +1,29 @@
+{
+  "name": "renraku-api",
+  "version": "0.0.0",
+  "description": "API to send email to a predefined email from static Website",
+  "repository": "https://github.com/kdisneur/renarku=api",
+  "readme": "README.md",
+  "author": "Kevin Disneur<kevin.disneur@gmail.com>",
+  "contributors": [
+    {
+      "name": "Kevin Disneur",
+      "email": "kevin.disneur@gmail.com"
+    }
+  ],
+  "main": "app.js",
+  "dependencies" : {
+    "grunt":                     "~> 0.4.0",
+    "grunt-nodemon":             "~> 0.1.1",
+    "grunt-concurrent":          "~> 0.4.1",
+    "grunt-contrib-jshint":      "~> 0.7.0",
+    "grunt-contrib-watch":       "~> 0.5.0",
+    "load-grunt-tasks":          "~> 0.2.0",
+    "mongoose":                  "~> 3.8.0",
+    "mongoose-unique-validator": "~> 0.2.0",
+    "mongoose-validator":        "~> 0.2.0",
+    "nconf":                     "~> 0.6.0",
+    "node-uuid":                 "~> 1.4.1",
+    "restify":                   "~> 2.6.0"
+  }
+}
